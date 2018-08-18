@@ -1,0 +1,9 @@
+/Users/wMadwand/Projects/qqq/qqq/bin/Debug/netstandard2.0/qqq.deps.json
+/Users/wMadwand/Projects/qqq/qqq/bin/Debug/netstandard2.0/qqq.dll
+/Users/wMadwand/Projects/qqq/qqq/bin/Debug/netstandard2.0/qqq.pdb
+/Users/wMadwand/Projects/qqq/qqq/obj/Debug/netstandard2.0/qqq.csprojResolveAssemblyReference.cache
+/Users/wMadwand/Projects/qqq/qqq/obj/Debug/netstandard2.0/qqq.csproj.CoreCompileInputs.cache
+/Users/wMadwand/Projects/qqq/qqq/obj/Debug/netstandard2.0/qqq.AssemblyInfoInputs.cache
+/Users/wMadwand/Projects/qqq/qqq/obj/Debug/netstandard2.0/qqq.AssemblyInfo.cs
+/Users/wMadwand/Projects/qqq/qqq/obj/Debug/netstandard2.0/qqq.dll
+/Users/wMadwand/Projects/qqq/qqq/obj/Debug/netstandard2.0/qqq.pdb

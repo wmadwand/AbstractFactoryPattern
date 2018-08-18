@@ -1,0 +1,8 @@
+/Users/wMadwand/Projects/qqq/qqq/bin/Release/netstandard2.0/AbstractFactory.deps.json
+/Users/wMadwand/Projects/qqq/qqq/bin/Release/netstandard2.0/AbstractFactory.dll
+/Users/wMadwand/Projects/qqq/qqq/bin/Release/netstandard2.0/AbstractFactory.pdb
+/Users/wMadwand/Projects/qqq/qqq/obj/Release/netstandard2.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/wMadwand/Projects/qqq/qqq/obj/Release/netstandard2.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/wMadwand/Projects/qqq/qqq/obj/Release/netstandard2.0/AbstractFactory.AssemblyInfo.cs
+/Users/wMadwand/Projects/qqq/qqq/obj/Release/netstandard2.0/AbstractFactory.dll
+/Users/wMadwand/Projects/qqq/qqq/obj/Release/netstandard2.0/AbstractFactory.pdb
